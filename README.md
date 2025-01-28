@@ -58,3 +58,11 @@ Retail businesses generate a wealth of data from daily operations.
 
 - Supported data-driven decision-making for retail operations.
 
+---
+
+  ## 🤝 Let's Connect  
+- **LinkedIn**: [https://www.linkedin.com/in/lakshit-poojari/](https://www.linkedin.com/in/lakshit-poojari/)  
+- **GitHub**: [lakshit_poojari](https://github.com/Lakshit-Poojari)
+- **Email**: [lakshitp.2110@gmail.com](lakshitp.2110@gmail.com)  
+
+---
