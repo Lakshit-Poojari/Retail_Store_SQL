@@ -1,7 +1,3 @@
-# Retail_Store_SQL
-
----
-
 # Retail Store SQL Analysis 📊🛒
 
 This project demonstrates SQL-based analysis on retail store data to uncover insights into sales, customer behavior, and inventory management. The SQL queries help extract meaningful metrics and support data-driven decision-making for retail business optimization.
